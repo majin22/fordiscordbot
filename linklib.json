@@ -1,25 +1,78 @@
 [
   {
-  "paraslink":{
-    "skellies":"secretskelliessociety.near",
-    "grimms":"grimms.secretskelliessociety.near",
-    "toucs":"tuff-toucans-by-thewildernessnear",
-    "ndn":"dragonnation.near",
-    "skullingham":"estates.secretskelliessociety.near",
-    "kaizo":"kaizofighters.tenk.near",
-    "tayc":"tayc-nft.near",
-    "asac":"asac.near",
-    "starrynight":"starry-night-by-markoethnear",
-    "pilgrim":"623c2cd4294f600e58f46fa2.astrogenfunds.near",
-    "nearnaut":"nearnautnft.near",
-    "tinkers":"tinkerunion_nft.enleap.near",
-    "banc":"banc.neartopia.near",
-    "anc":"ape-near-club-by-apenearclubnear",
-    "dons":"nft.thedons.near",
-    "haven":"mint.havendao.near",
-    "neargurls":"neargurls.neartopia.near",
-    "dino":"dinotroop.neartopia.near",
-    "bulls":"thebullishbulls.near"
-    }
+  "name": "skellies",
+  "link": "secretskelliessociety.near"
+  }
+  {
+  "name": "grimms",
+  "link": "grimms.secretskelliessociety.near"
+  }
+  {
+  "name": "toucs",
+  "link": "tuff-toucans-by-thewildernessnear"
+  }
+  {
+  "name": "ndn",
+  "link": "dragonnation.near"
+  }
+  {
+  "name": "skullingham",
+  "link": "estates.secretskelliessociety.near"
+  }
+  {
+  "name": "kaizo",
+  "link": "kaizofighters.tenk.near"
+  }
+  {
+  "name": "tayc",
+  "link": "tayc-nft.near"
+  }
+  {
+  "name": "asac",
+  "link": "asac.near"
+  }
+  {
+  "name": "starrynight",
+  "link": "starry-night-by-markoethnear"
+  }
+  {
+  "name": "pilgrim",
+  "link": "623c2cd4294f600e58f46fa2.astrogenfunds.near"
+  }
+  {
+  "name": "nearnaut",
+  "link": "nearnautnft.near"
+  }
+  {
+  "name": "tinkers",
+  "link": "tinkerunion_nft.enleap.near"
+  }
+  {
+  "name": "banc",
+  "link": "banc.neartopia.near"
+  }
+  {
+  "name": "anc",
+  "link": "ape-near-club-by-apenearclubnear"
+  }
+  {
+  "name": "dons",
+  "link": "nft.thedons.near"
+  }
+  {
+  "name": "haven",
+  "link": "mint.havendao.near"
+  }
+  {
+  "name": "neargurls",
+  "link": "neargurls.neartopia.near"
+  }
+  {
+  "name": "dino",
+  "link": "dinotroop.neartopia.near"
+  }
+  {
+  "name": "bullishbulls",
+  "link": "thebullishbulls.near"
   }
 ]
