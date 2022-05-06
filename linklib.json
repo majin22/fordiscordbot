@@ -138,5 +138,9 @@
   {
   "name": "nearton",
   "link": "nearton_nft.near"
+  },
+  {
+  "name": "cartel",
+  "link": "cartel.neartopia.near"
   }
 ]
