@@ -144,11 +144,15 @@
   "link": "nearton_nft.near"
   },
   {
-  "name": "cartel",
+  "name": "cartel0",
   "link": "cartel.neartopia.near"
   },
   {
   "name": "foxonry",
   "link": "gen0.metafoxonry.near"
+  },
+  {
+  "name": "cartel1",
+  "link": "cartelgen1.neartopia.near"
   }
 ]
